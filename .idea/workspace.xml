@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe9ab11-5059-442e-80e9-6771f1d415e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/angular-calculator/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-calculator/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-calculator/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-calculator/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-calculator/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-calculator/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-calculator/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-calculator/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-calculator/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-calculator/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cacullator" />
+  </component>
+  <component name="ProjectId" id="1SYKS0bhetJmzJ4uJlI1QhSJY1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe9ab11-5059-442e-80e9-6771f1d415e4" name="Default Changelist" comment="" />
+      <created>1571735084995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571735084995</updated>
+      <workItem from="1571735086088" duration="1970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/angular-calculator" />
+      <path value="$PROJECT_DIR$/cacullator" />
+    </ignored-roots>
+  </component>
+</project>

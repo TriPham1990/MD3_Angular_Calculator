@@ -1,0 +1,30 @@
+<h2>Awesome Calculator</h2>
+<div>
+  <label>
+    First Number :
+    <input type="number" class="form-input"
+           [value]="firstNumber"
+           (change)="onFirstNumberChange($event.target.value)"/>
+  </label>
+  <label>
+    Operator :
+    <select class="form-input" [value]="operator" (change)="onSelectChange($event.target.value)">
+      <option value="+">+</option>
+      <option value="-">-</option>
+      <option value="*">*</option>
+      <option value="/">/</option>
+    </select>
+  </label>
+  <label>
+    Second Number :
+    <input type="number" class="form-input"
+           [value]="secondNumber"
+           (change)="onSecondNumberChange($event.target.value)"/>
+  </label>
+</div>
+<div>
+  <button class="form-input" (click)="calculate()">Submit</button>
+</div>
+<div class="result">
+  {{result}}
+</div>
